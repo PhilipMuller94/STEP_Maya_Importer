@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv-step/
+target/
+dist/
+.vscode/
+.idea/

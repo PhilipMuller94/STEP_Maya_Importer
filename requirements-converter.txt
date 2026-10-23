@@ -1,0 +1,2 @@
+# Installed in an ordinary Python environment, never Maya's bundled Python.
+cadquery-ocp==7.9.3.1.1
